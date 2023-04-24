@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Martin Ludvigsen
+title: Home
 permalink: /
 ---
 
