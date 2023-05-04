@@ -10,4 +10,4 @@ permalink: /publications/
 
 <h1> Preprints </h1>
 
-- [Adversarial Generative NMF for Single Channel Source Separation](https://arxiv.org/abs/2305.01758). Martin Ludvigsen and Markus Grasmair (2023).
+- [Adversarial Generative NMF for Single Channel Source Separation](https://arxiv.org/abs/2305.01758). Martin Ludvigsen and Markus Grasmair (2023). arXiv:2305.01758
